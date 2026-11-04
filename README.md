@@ -18,3 +18,4 @@ This course is designed to take you from a total beginner to a production-ready 
 3. **Commit Daily:** Consistency is the key to becoming a top 1% developer.
 
 
+## how it works
